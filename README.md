@@ -9,4 +9,6 @@
 - 📫 How to reach me: k99zielonka@gmail.com :postbox:
 - ⚡ Fun fact: I love chicken nuggets. :hand_over_mouth: :fries:
 
+:eyes: Visit my website: https://karolinazielonka.github.io/personal-website/ :eyes:
+
 :cherry_blossom: 	:cherry_blossom: 	:cherry_blossom:
