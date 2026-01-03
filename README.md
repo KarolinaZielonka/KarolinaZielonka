@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="header.png" alt="Karolina Zielonka - Frontend Lead Header" width="100%">
+</div>
+
 ### Hi there, I'm Karolina! 👋 
 
 ⚛️ **React & React Native Developer | Frontend Lead**
